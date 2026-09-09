@@ -21,6 +21,25 @@ CyberRecon-AI is a free, terminal-based, offline defensive reconnaissance suite 
 - Kali/Debian with `apt-get`, Termux with `pkg`, or Windows with Python.
 - Network access to the authorized target for live checks; analysis and reporting remain local.
 
+
+## 🎯 Purpose & Scope
+
+**CyberRecon-AI** is a 100% standalone, zero-dependency defensive security suite designed for security engineers, bug-bounty hunters, red teams, and system administrators. 
+
+It executes **150 itemized security checks** across **11 core modules** in a single pass without requiring external API keys, external cloud binaries, or third-party paid subscriptions.
+
+```text
+  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗███╗   ██╗
+ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝████╗  ██║
+ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██║     ██╔██╗ ██║
+ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██║     ██║╚██╗██║
+ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║╚██████╗██║ ╚████║
+  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═══╝
+──────────────────────────────────────────────────────────
+  ⚡ CyberRecon-AI // 150-Point Autonomous Security Suite
+  👤 Developed & Maintained by: MR ASIF
+──────────────────────────────────────────────────────────
+
 ## Installation
 
 ### Kali Linux
