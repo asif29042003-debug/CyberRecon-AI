@@ -1,0 +1,2 @@
+# CyberRecon-AI core uses only Python standard-library modules.
+# Rich is optional; the CLI automatically falls back to plain text.
